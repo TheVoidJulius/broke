@@ -10,3 +10,4 @@ Prevention Strategies
 Implement wastewater treatment and stricter industrial regulations to reduce discharges. Promote sustainable farming, plastic reduction, and rainwater management to minimize runoff. Public actions like proper waste disposal and avoiding chemical dumping support long-term solutions.
 thankw for reading the above text.
 and come again for more updates
+yo yo honey singh fan
