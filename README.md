@@ -8,4 +8,4 @@ Polluted water kills fish and disrupts food chains, with over 50% of the world's
 
 Prevention Strategies
 Implement wastewater treatment and stricter industrial regulations to reduce discharges. Promote sustainable farming, plastic reduction, and rainwater management to minimize runoff. Public actions like proper waste disposal and avoiding chemical dumping support long-term solutions.
-thankw for reading
+thankw for reading the above text.
