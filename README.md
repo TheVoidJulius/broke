@@ -11,3 +11,5 @@ Implement wastewater treatment and stricter industrial regulations to reduce dis
 thankw for reading the above text.
 and come again for more updates
 yo yo honey singh fan
+
+discipline is the key to success.
