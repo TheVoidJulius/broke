@@ -13,3 +13,4 @@ and come again for more updates
 yo yo honey singh fan
 
 discipline is the key to success.
+victory is ours.
