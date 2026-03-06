@@ -1,4 +1,4 @@
-mnjkkkkkkkkkkkksdfbjhdscvvvvvvvvvvvvvvvvWater pollution contaminates rivers, lakes, oceans, and groundwater with harmful substances, primarily from human activities. This degrades water quality, threatening ecosystems, health, and economies worldwide.
+jhkjhjjhkhjhjkhkjjkhkjmnjkkkkkkkkkkkksdfbjhdscvvvvvvvvvvvvvvvvWater pollution contaminates rivers, lakes, oceans, and groundwater with harmful substances, primarily from human activities. This degrades water quality, threatening ecosystems, health, and economies worldwide.
 
 Key Causescvbcbvvcbc
 Industrial waste discharges toxic chemicals like mercury and lead into water bodies, severely harming aquatic life. Agricultural runoff carries pesticides, fertilizers, and herbicides into streams, triggering nutrient pollution and algal blooms that deplete oxygen. Sewage, plastic waste, and oil spills from households, urban areas, and shipping further exacerbate contamination.
