@@ -3,12 +3,12 @@ name: Auto Commit Bot
 on:
   schedule:
     # Runs every 10 minutes
-    - cron: '*/10 * * * *'
+    - cron: '*/1 * * * *'
   workflow_dispatch: # Allows manual trigger from the Actions tab
 
 jobs:
   auto-commit:
-    runs-runs-on: ubuntu-latest
+    runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
